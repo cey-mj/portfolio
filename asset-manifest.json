@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d86bf36e.css",
-    "main.js": "/portfolio/static/js/main.da4c4b27.js",
-    "static/media/rock-dogs2.jpg": "/portfolio/static/media/rock-dogs2.859e8b4b3e3d6782c8f3.jpg",
-    "static/media/rrr.jpeg": "/portfolio/static/media/rrr.8e919e267d7c06db47e1.jpeg",
-    "static/media/legend-of-hanuman.jpg": "/portfolio/static/media/legend-of-hanuman.1c2b4a9f05377b3137a1.jpg",
-    "static/media/Obiwan-kenobi.jpg": "/portfolio/static/media/Obiwan-kenobi.acaa860ca4cfe4b5a707.jpg",
-    "static/media/mimi.jpg": "/portfolio/static/media/mimi.a5d479cd64e27db53f8b.jpg",
-    "static/media/sweetgirl.webp": "/portfolio/static/media/sweetgirl.57f20831a1b71bdc1ff6.webp",
-    "static/media/bell-bottom.avif": "/portfolio/static/media/bell-bottom.6f4854919deb54cf8d72.avif",
-    "static/media/ambulance.avif": "/portfolio/static/media/ambulance.02e2dee0e26bece08440.avif",
-    "static/media/mehul.avif": "/portfolio/static/media/mehul.55a2f4c306d1cf824d18.avif",
-    "static/media/resource-monitor.avif": "/portfolio/static/media/resource-monitor.a460549a710f67ee1d6f.avif",
-    "static/media/wazirx1.avif": "/portfolio/static/media/wazirx1.5cad50f1a6f372a33b54.avif",
-    "static/media/wazirx.avif": "/portfolio/static/media/wazirx.8cf7295d776cef81a380.avif",
-    "index.html": "/portfolio/index.html",
-    "static/media/houdini.svg": "/portfolio/static/media/houdini.bb107f7667ed9e3fc01a77bf3dba9979.svg",
-    "static/media/attols.svg": "/portfolio/static/media/attols.fad9988b71b8487b107ff18e8c4e0db4.svg",
-    "main.d86bf36e.css.map": "/portfolio/static/css/main.d86bf36e.css.map",
-    "main.da4c4b27.js.map": "/portfolio/static/js/main.da4c4b27.js.map"
+    "main.css": "/static/css/main.d86bf36e.css",
+    "main.js": "/static/js/main.671ee196.js",
+    "static/media/rock-dogs2.jpg": "/static/media/rock-dogs2.859e8b4b3e3d6782c8f3.jpg",
+    "static/media/rrr.jpeg": "/static/media/rrr.8e919e267d7c06db47e1.jpeg",
+    "static/media/legend-of-hanuman.jpg": "/static/media/legend-of-hanuman.1c2b4a9f05377b3137a1.jpg",
+    "static/media/Obiwan-kenobi.jpg": "/static/media/Obiwan-kenobi.acaa860ca4cfe4b5a707.jpg",
+    "static/media/mimi.jpg": "/static/media/mimi.a5d479cd64e27db53f8b.jpg",
+    "static/media/sweetgirl.webp": "/static/media/sweetgirl.57f20831a1b71bdc1ff6.webp",
+    "static/media/bell-bottom.avif": "/static/media/bell-bottom.6f4854919deb54cf8d72.avif",
+    "static/media/ambulance.avif": "/static/media/ambulance.02e2dee0e26bece08440.avif",
+    "static/media/mehul.avif": "/static/media/mehul.55a2f4c306d1cf824d18.avif",
+    "static/media/resource-monitor.avif": "/static/media/resource-monitor.a460549a710f67ee1d6f.avif",
+    "static/media/wazirx1.avif": "/static/media/wazirx1.5cad50f1a6f372a33b54.avif",
+    "static/media/wazirx.avif": "/static/media/wazirx.8cf7295d776cef81a380.avif",
+    "index.html": "/index.html",
+    "static/media/houdini.svg": "/static/media/houdini.bb107f7667ed9e3fc01a77bf3dba9979.svg",
+    "static/media/attols.svg": "/static/media/attols.fad9988b71b8487b107ff18e8c4e0db4.svg",
+    "main.d86bf36e.css.map": "/static/css/main.d86bf36e.css.map",
+    "main.671ee196.js.map": "/static/js/main.671ee196.js.map"
   },
   "entrypoints": [
     "static/css/main.d86bf36e.css",
-    "static/js/main.da4c4b27.js"
+    "static/js/main.671ee196.js"
   ]
 }
